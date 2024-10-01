@@ -42,7 +42,7 @@ function checkParalax() {
     }
 }
 
-document.addEventListener('touchstart', touchEvent);
+//document.addEventListener('touchstart', touchEvent);
 document.addEventListener('click', clickEvent);
 document.addEventListener('keydown', keyEvent);
 
