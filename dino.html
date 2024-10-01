@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dino Game</title>
+  <link rel="stylesheet" type="text/css" href="flapDino.css">
+  <style>
+    .game-container {
+      position: relative;
+      width: 100vw;
+      height: 200px;
+      background-color: f7f7f7;
+      border-bottom: 2px solid #000;
+      overflow: hidden;
+    }
+
+    .dino {
+      position: absolute;
+      bottom: 0;
+      left: 50px;
+      width: 30px;
+      height: 20px;
+      background-color: transparent;
+      background-image: url('./pig.svg');
+      background-size: cover;
+      z-index: 10;
+    }
+
+    .cactus-collision {
+      position: absolute;
+      bottom: 0;
+      width: 10px;
+      height: 10px;
+    }
+
+    .big-cactus-collision {
+      position: absolute;
+      bottom: 0;
+      width: 15px;
+      height: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="game-container" id="game-container">
+    <div class="score" id="score">0</div>
+    <div class="high-score" id="high-score">0</div>
+    <div class="dino object" id="dino"></div>
+    <div class="game-over" id="start">Pressione Espaço</div>
+    <div class="game-over hidden" id="game-over">Game Over!</div>
+    <div class="win hidden" id="win">Parabéns!<br/>Você merece 1 real!</div>
+    <div class="parallax" id="parallax">
+      <div class="parallax-bg" id="parallax-bg">
+        <div class="parallax-window-1"></div>
+        <div class="parallax-window-2"></div>
+        <div class="parallax-window-3"></div>
+        <div class="parallax-window-1"></div>
+      </div>
+      <div class="parallax-fg" id="parallax-fg"></div>
+    </div>
+  </div>
+  <div class="hidden" id="hidden-div"></div>
+  <script src="dinoConfig.js"></script>
+  <script src="engine.js"></script>
+  <script src="flapDino.js"></script>
+</body>
+</html>

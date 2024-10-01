@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="8.75 4 24.5 21.5" width="24.5" height="21.5" xmlns="http://www.w3.org/2000/svg">
+  <rect y="4" width="24.048" height="20" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);" x="9"/>
+  <rect x="8.75" y="24" width="24.5" height="1.5" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <rect x="9" y="14" width="4" height="9.974" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <rect x="29" y="12" width="4" height="12" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <rect x="13" y="16" width="4" height="8" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <rect x="17" y="14" width="4" height="10" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <rect x="25" y="18" width="4" height="6" style="fill: rgb(216, 216, 216); fill-opacity: 0; paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198);"/>
+  <g>
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 0.1px; fill-opacity: 0; stroke: rgb(198, 198, 198);" d="M 22.235 8.933 C 22.504 9.336 23.025 9.035 23.441 9.174 C 23.705 9.262 24.042 9.174 24.315 9.264 C 24.79 9.423 25.413 9.355 25.942 9.355 C 26.073 9.355 26.382 9.397 26.454 9.325 C 26.549 9.23 27.003 9.291 27.117 9.234 C 27.21 9.188 27.501 9.272 27.569 9.204 C 27.666 9.107 28.112 8.907 28.112 8.692 C 28.112 8.418 28.017 8.21 27.75 8.21 C 27.706 8.21 27.534 8.235 27.509 8.21 C 27.359 8.06 27.148 8.15 26.967 8.059 C 26.613 7.882 25.956 7.968 25.55 7.968 C 25.486 7.968 25.606 7.818 25.671 7.818 C 25.763 7.818 25.904 7.705 25.972 7.637 C 26.175 7.434 25.58 7.064 25.52 7.004 C 25.497 6.981 25.368 7.064 25.309 7.064 C 25.068 7.064 24.679 7.199 24.465 7.306 C 24.252 7.412 23.672 7.547 23.441 7.547 C 23.363 7.547 23.103 7.583 23.049 7.637 C 22.944 7.742 22.657 7.7 22.657 7.848 C 22.657 7.917 22.39 8.192 22.235 8.27 C 22.128 8.323 21.644 8.258 21.572 8.33 C 21.358 8.544 21.295 8.873 21 8.873"/>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 0.1px; fill-opacity: 0; stroke: rgb(198, 198, 198);" d="M 19.356 8.5 C 19.312 8.515 18.362 8.523 18.362 8.56 C 18.362 8.646 18 9.133 18 9.133"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 2)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 4)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 5.999999999999999)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 4, 2)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 4, 4)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 4, 5.999999999999999)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 8, 0)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 8, 2)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 8, 4)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 8, 5.999999999999999)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 19.993022918701172, -1.9999999999999998)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 20, 0)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 20, 2)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 20, 4)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 20, 5.999999999999999)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 16, 4)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 16, 5.999999999999999)">
+    <rect x="10" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+    <rect x="11.5" y="15" width="0.452" height="0.903" style="paint-order: fill; stroke-width: 0.1px; stroke: rgb(198, 198, 198); fill: rgb(198, 198, 198);"/>
+  </g>
+</svg>
